@@ -25,6 +25,9 @@ This project helped me move from basic styling to writing structured, scalable, 
 - Using **CSS Grid** and understanding when to use it vs **Flexbox**
 - Using the **`:is()` pseudo-class** to reduce repetitive CSS
 - Understanding the **gap issue affecting width** and how to solve it
+- Importing and implementing **custom fonts using @font-face**
+- Applying **CSS animations** to enhance UI interaction
+
 
 ## 📱 Responsive Design
 - Desktop
